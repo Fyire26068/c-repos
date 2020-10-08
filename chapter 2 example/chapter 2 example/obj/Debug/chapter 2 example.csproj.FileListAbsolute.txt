@@ -1,0 +1,10 @@
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\bin\Debug\chapter 2 example.exe.config
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\bin\Debug\chapter 2 example.exe
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\bin\Debug\chapter 2 example.pdb
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter 2 example.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter_2_example.Form1.resources
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter_2_example.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter 2 example.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter 2 example.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter 2 example.exe
+C:\Users\anthony.garrard\source\repos\chapter 2 example\chapter 2 example\obj\Debug\chapter 2 example.pdb

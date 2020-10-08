@@ -1,0 +1,10 @@
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\anthony.garrard\source\repos\Contacts\Contacts\obj\Debug\Contacts.pdb

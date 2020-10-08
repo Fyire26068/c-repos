@@ -1,0 +1,16 @@
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts_AG.Form1.resources
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts_AG.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts AG.exe.config
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts AG.exe
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts AG.pdb
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.exe
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.pdb
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts.mdf
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts_log.ldf
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts AG.exe.manifest
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\bin\Debug\Contacts AG.application
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.exe.manifest
+C:\Users\anthony.garrard\source\repos\Contacts AG\Contacts AG\obj\Debug\Contacts AG.application

@@ -1,0 +1,7 @@
+C:\Users\anthony.garrard\source\repos\4.4 assignment\obj\Debug\4.4 assignment.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\4.4 assignment\obj\Debug\4.4 assignment.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\4.4 assignment\bin\Debug\4.4 assignment.exe.config
+C:\Users\anthony.garrard\source\repos\4.4 assignment\bin\Debug\4.4 assignment.exe
+C:\Users\anthony.garrard\source\repos\4.4 assignment\bin\Debug\4.4 assignment.pdb
+C:\Users\anthony.garrard\source\repos\4.4 assignment\obj\Debug\4.4 assignment.exe
+C:\Users\anthony.garrard\source\repos\4.4 assignment\obj\Debug\4.4 assignment.pdb

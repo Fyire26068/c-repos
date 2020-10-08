@@ -1,0 +1,7 @@
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\bin\Debug\Chapter 4 examples.exe.config
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\bin\Debug\Chapter 4 examples.exe
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\bin\Debug\Chapter 4 examples.pdb
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\obj\Debug\Chapter 4 examples.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\obj\Debug\Chapter 4 examples.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\obj\Debug\Chapter 4 examples.exe
+C:\Users\anthony.garrard\source\repos\Chapter 4 examples\obj\Debug\Chapter 4 examples.pdb

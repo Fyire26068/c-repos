@@ -1,0 +1,14 @@
+C:\Users\anthony.garrard\source\repos\Fig Clicker\bin\Debug\Fig Clicker.exe.config
+C:\Users\anthony.garrard\source\repos\Fig Clicker\bin\Debug\Fig Clicker.exe
+C:\Users\anthony.garrard\source\repos\Fig Clicker\bin\Debug\Fig Clicker.pdb
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig_Clicker.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.exe
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.pdb
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig_Clicker.FigClicker.resources
+C:\Users\anthony.garrard\source\repos\Fig Clicker\bin\Debug\Fig Clicker.exe.manifest
+C:\Users\anthony.garrard\source\repos\Fig Clicker\bin\Debug\Fig Clicker.application
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.exe.manifest
+C:\Users\anthony.garrard\source\repos\Fig Clicker\obj\Debug\Fig Clicker.application

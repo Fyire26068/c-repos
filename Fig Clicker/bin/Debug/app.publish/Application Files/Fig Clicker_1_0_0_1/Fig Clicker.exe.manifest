@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Fig Clicker.exe" version="1.0.0.1" publicKeyToken="a4f9e00b00c07ff8" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Fig Clicker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Fig Clicker.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Fig Clicker.exe" size="196568">
+      <assemblyIdentity name="Fig Clicker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>x9dCaGcpHwnXnIAzrk+UUhazGNf7+Ae84Lqmu5pK6qg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Fig Clicker.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=TCSD\anthony.garrard" issuerKeyHash="63c3774421ec0bd4f731e3a08d7b1a28c92bb928" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7GBq5bGu71cQm/mhsw66elWlrSnNkur7NeAX29vr2NI=</DigestValue></Reference></SignedInfo><SignatureValue>EhVF6GDMSRPk4ShpWRTRrMU0SpedBwCrOLA64bp5zhf1PnNiBMd7d9BHfS96dGRKZSkz5Kl9IJ9DNFV0zedzOtgVhLSoLG0cOkUikMJ+tiPubBpAPc8tviVlI0yysQQVjh0wVIIK5CIKAu+RaUEFTj4BpflazT17w+7R+nXierA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tMAAsDmqOF868eD/jeLZoUhQpRSPAb60vdAzrhoLSYGMjTjfcbz96JXL8F+hliCKr3TBzHCIvdxMd1vdNDt9vJOhflbc7cLs1TCwthPwi8ZmvExEw8cSwjIJ31+SoCdxJEQBjV21FHTL2KvEug3T+9qIxerJcFx6lq4S6GUuFQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d2d8ebdbdb17e035fbea92cd29ada5557aba0eb3a1f99b1057efaeb1e56a60ec" Description="" Url=""><as:assemblyIdentity name="Fig Clicker.exe" version="1.0.0.1" publicKeyToken="a4f9e00b00c07ff8" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TCSD\anthony.garrard</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+Dm9I9TpfF/YkkIpqwWJtdavXRfNVP1s5BSRqpDywUU=</DigestValue></Reference></SignedInfo><SignatureValue>DqHhCKTcr1WJhLsMhLvB3If7OIgEOPYSjLBkqDoAIxe9HSeMFDPAqBTd/NXZBHHNYSojGG6Z9kMnltzi+kts+o3p92DTY5UhN8cTFOoHhv4pw8OLc0OwWvI7QRW8Zqaz3QkpKJozjqqKeAn8yIlNNmK3AUrhNCmar67A/hhxsVk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tMAAsDmqOF868eD/jeLZoUhQpRSPAb60vdAzrhoLSYGMjTjfcbz96JXL8F+hliCKr3TBzHCIvdxMd1vdNDt9vJOhflbc7cLs1TCwthPwi8ZmvExEw8cSwjIJ31+SoCdxJEQBjV21FHTL2KvEug3T+9qIxerJcFx6lq4S6GUuFQk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQUhRtviq9UbFFr4VH+D1uFzANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigAVABDAFMARABcAGEAbgB0AGgAbwBuAHkALgBnAGEAcgByAGEAcgBkMB4XDTIwMDkyNDE5MjYzM1oXDTIxMDkyNTAxMjYzM1owMzExMC8GA1UEAx4oAFQAQwBTAEQAXABhAG4AdABoAG8AbgB5AC4AZwBhAHIAcgBhAHIAZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtMAAsDmqOF868eD/jeLZoUhQpRSPAb60vdAzrhoLSYGMjTjfcbz96JXL8F+hliCKr3TBzHCIvdxMd1vdNDt9vJOhflbc7cLs1TCwthPwi8ZmvExEw8cSwjIJ31+SoCdxJEQBjV21FHTL2KvEug3T+9qIxerJcFx6lq4S6GUuFQkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCmPtJsmpX8+rrEW4yqle+kq4tr3FXIiwSLPToFc2NZbIFbSinJKveETy4spK6MbojMJfhZeLBOADOp5mCVrz1dglD4Qar6+KvbJjNPhUM8h6hgBnTTCEYBiCbzfrz1vt1e4nAT5Py8H8buuixxk30CLfVXJG6p/bqD4VcyShpDng==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,10 @@
+C:\Users\anthony.garrard\source\repos\eventDriven\bin\Debug\eventDriven.exe.config
+C:\Users\anthony.garrard\source\repos\eventDriven\bin\Debug\eventDriven.exe
+C:\Users\anthony.garrard\source\repos\eventDriven\bin\Debug\eventDriven.pdb
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.Form1.resources
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.exe
+C:\Users\anthony.garrard\source\repos\eventDriven\obj\Debug\eventDriven.pdb

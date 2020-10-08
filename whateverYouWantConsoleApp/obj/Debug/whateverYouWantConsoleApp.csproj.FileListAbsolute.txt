@@ -1,0 +1,7 @@
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\bin\Debug\whateverYouWantConsoleApp.exe.config
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\bin\Debug\whateverYouWantConsoleApp.exe
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\bin\Debug\whateverYouWantConsoleApp.pdb
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\obj\Debug\whateverYouWantConsoleApp.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\obj\Debug\whateverYouWantConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\obj\Debug\whateverYouWantConsoleApp.exe
+C:\Users\anthony.garrard\source\repos\whateverYouWantConsoleApp\obj\Debug\whateverYouWantConsoleApp.pdb

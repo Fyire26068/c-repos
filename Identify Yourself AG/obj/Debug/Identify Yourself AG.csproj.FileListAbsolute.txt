@@ -1,0 +1,7 @@
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\bin\Debug\Identify Yourself AG.exe.config
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\bin\Debug\Identify Yourself AG.exe
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\bin\Debug\Identify Yourself AG.pdb
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\obj\Debug\Identify Yourself AG.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\obj\Debug\Identify Yourself AG.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\obj\Debug\Identify Yourself AG.exe
+C:\Users\anthony.garrard\source\repos\Identify Yourself AG\obj\Debug\Identify Yourself AG.pdb

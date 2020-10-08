@@ -1,0 +1,10 @@
+C:\Users\anthony.garrard\source\repos\FlowControl\bin\Debug\FlowControl.exe.config
+C:\Users\anthony.garrard\source\repos\FlowControl\bin\Debug\FlowControl.exe
+C:\Users\anthony.garrard\source\repos\FlowControl\bin\Debug\FlowControl.pdb
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.Form1.resources
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.exe
+C:\Users\anthony.garrard\source\repos\FlowControl\obj\Debug\FlowControl.pdb

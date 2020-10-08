@@ -1,0 +1,10 @@
+C:\Users\anthony.garrard\source\repos\windows gui\bin\Debug\windows gui.exe.config
+C:\Users\anthony.garrard\source\repos\windows gui\bin\Debug\windows gui.exe
+C:\Users\anthony.garrard\source\repos\windows gui\bin\Debug\windows gui.pdb
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows gui.csprojAssemblyReference.cache
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows_gui.StartPage.resources
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows_gui.Properties.Resources.resources
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows gui.csproj.GenerateResource.cache
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows gui.csproj.CoreCompileInputs.cache
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows gui.exe
+C:\Users\anthony.garrard\source\repos\windows gui\obj\Debug\windows gui.pdb
