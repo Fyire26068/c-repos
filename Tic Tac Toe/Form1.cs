@@ -41,6 +41,7 @@ namespace Tic_Tac_Toe
             OWinLbl.Text = "O Wins :   " + oWins;
             tieLbl.Text = "Ties :   " + ties;
             bttnA1.BackColor = bttnA2.BackColor = bttnA3.BackColor = bttnB1.BackColor = bttnB2.BackColor = bttnB3.BackColor = bttnC1.BackColor = bttnC2.BackColor = bttnC3.BackColor = newBtn.BackColor = resetBtn.BackColor = exitBtn.BackColor = Color.White;
+            resetBtn.BackColor = newBtn.BackColor = exitBtn.BackColor = Color.DarkGray;
         }
         private void button_click(object sender, EventArgs e)
         {
@@ -60,7 +61,92 @@ namespace Tic_Tac_Toe
             }
             button.Enabled = false;
             button.BackColor = Color.White;
+
+            
+
+            if (checkWin() == true)
+            {
+                if(button.Text == "X")
+                {
+                    MessageBox.Show("X Won!");
+                    xWins++;
+                    NewGame();
+                }
+                else
+                {
+                    MessageBox.Show("O Won!");
+                    oWins++;
+                    NewGame();
+                }
+            }
+            else
+            {
+                if (checkDraw())
+                {
+                    MessageBox.Show("Tie Game");
+                    ties++;
+                    NewGame();
+                }
+            }
         }
+
+        bool checkDraw()
+        {
+            if (turns >= 9)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+            
+        }
+
+        bool checkWin()
+        {
+            //horizontal checks
+            if ((bttnA1.Text == bttnA2.Text) && (bttnA1.Text == bttnA3.Text) && (bttnA1.Text != ""))
+            {
+                return true;
+            }
+            else if ((bttnB1.Text == bttnB2.Text) && (bttnB1.Text==bttnB3.Text) && (bttnB1.Text!= ""))
+            {
+                return true;
+            }
+            else if ((bttnC1.Text == bttnC2.Text) && (bttnC1.Text == bttnC3.Text) && (bttnC1.Text != ""))
+            {
+                return true;
+            }
+            //vertical checks
+            else if ((bttnA1.Text == bttnB1.Text) && (bttnA1.Text == bttnC1.Text) && (bttnA1.Text != ""))
+            {
+                return true;
+            }
+            else if ((bttnA2.Text == bttnB2.Text) && (bttnA2.Text == bttnC2.Text) && (bttnA2.Text != ""))
+            {
+                return true;
+            }
+            else if ((bttnA3.Text == bttnB3.Text) && (bttnA3.Text == bttnC3.Text) && (bttnA3.Text != ""))
+            {
+                return true;
+            }
+            //diagonal checks
+            else if ((bttnA1.Text == bttnB2.Text) && (bttnA1.Text == bttnC3.Text) && (bttnA1.Text != ""))
+            {
+                return true;
+            }
+            else if ((bttnC1.Text == bttnB2.Text) && (bttnC1.Text == bttnA3.Text) && (bttnC1.Text != ""))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+
 
         private void exitBtn_Click(object sender, EventArgs e)
         {
@@ -78,6 +164,9 @@ namespace Tic_Tac_Toe
             oWins = 0;
             xWins = 0;
             ties = 0;
+            XWinLbl.Text = "X Wins :   " + xWins;
+            OWinLbl.Text = "O Wins :   " + oWins;
+            tieLbl.Text = "Ties :   " + ties;
         }
     }
 }

@@ -8,3 +8,6 @@ C:\Users\anthony.garrard\source\repos\Guess my number\obj\Debug\Guess my number.
 C:\Users\anthony.garrard\source\repos\Guess my number\obj\Debug\Guess my number.exe
 C:\Users\anthony.garrard\source\repos\Guess my number\obj\Debug\Guess my number.pdb
 C:\Users\anthony.garrard\source\repos\Guess my number\obj\Debug\Guess my number.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\c-repos\Guess my number\obj\Debug\Guess my number.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\c-repos\Guess my number\obj\Debug\Guess my number.exe
+C:\Users\antho\Desktop\c-repos\Guess my number\obj\Debug\Guess my number.pdb
